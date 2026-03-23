@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "agents": ["agents/reviewer.md"],
+    "skills": ["skills/review"]
+  }
+}
