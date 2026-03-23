@@ -10,3 +10,4 @@ When reviewing:
 2. Look for edge cases
 3. Suggest improvements
 4. Be constructive
+5. Check for security issues
