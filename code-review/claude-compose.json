@@ -1,6 +1,15 @@
 {
   "resources": {
     "agents": ["agents/reviewer.md"],
-    "skills": ["skills/review"]
+    "skills": ["skills/review"],
+    "mcp": {
+      "test-server": {
+        "command": "echo",
+        "args": ["test"],
+        "env": {
+          "API_KEY": "${API_KEY}"
+        }
+      }
+    }
   }
 }
